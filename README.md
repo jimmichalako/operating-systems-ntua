@@ -1,6 +1,6 @@
 # NTUA ECE Operating Systems Course
 
-This repository showcases the laboratory assignments and programming implementations I completed during the Operating Systems course at the National Technical University of Athens (NTUA). Through this coursework, I gained hands-on experience in systems programming in C within a Linux environment, working with low-level POSIX process lifecycle management, signal handling, Inter-Process Communication (IPC) via pipes, I/O multiplexing with `select()`, and network socket communication.
+This repository showcases the laboratory assignments and programming implementations I completed during the Operating Systems course at the National Technical University of Athens (NTUA). Through this coursework, I acquired direct exposure in systems programming in C within a Linux environment, working with low-level POSIX process lifecycle management, signal handling, Inter-Process Communication (IPC) via pipes, I/O multiplexing with `select()`, and network socket communication.
 
 ---
 
